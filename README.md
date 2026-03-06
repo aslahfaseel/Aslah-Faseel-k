@@ -5,7 +5,7 @@
   <a href="www.linkedin.com/in/aslah-faseel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/vishnu.v_n/?hl=en">
+  <a href="https://www.instagram.com/aslah_fazzi/?hl=en">
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
   <a href="[https://www.credly.com/users/](https://www.credly.com/users/aslah-faseel-kg)">
@@ -29,7 +29,7 @@
 
 📖 In my downtime, I enjoy reading tech blogs, contributing to open-source, and experimenting with new tools.
 
-📫 Let's Connect: Vishnuvn6865@gmail.com
+📫 Let's Connect:aslahfaseel@gmail.com
 
 <h3>🛠 Tech Stack</h3>
 
